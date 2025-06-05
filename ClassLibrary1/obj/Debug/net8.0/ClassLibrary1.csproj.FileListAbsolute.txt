@@ -1,0 +1,14 @@
+D:\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.runtimeconfig.json
+D:\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.genruntimeconfig.cache
+D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

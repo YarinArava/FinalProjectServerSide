@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FinalProjectServerSide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:07:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:44:17.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\EventDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\EventDTO.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\EventDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:12:04.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\User.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\User.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:43:57.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventUser.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventUser.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\EventUser.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventUser.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\EventUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:43:47.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Event.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\Event.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:27:49.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:16:38.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\EventRepository.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repository\\EventRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:49:31.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\EventService.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Services\\EventService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\EventService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:32:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:54:50.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsContext.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventsContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\EventsContext.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventsContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\EventsContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADgvzcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:05:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:55:34.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

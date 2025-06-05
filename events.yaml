@@ -1,0 +1,191 @@
+openapi: 3.1.0
+info:
+  version: '1.0'
+  title: events
+servers:
+  - url: 'http://localhost:3000'
+paths:
+  /event:
+    post:
+      summary: Create new event
+      operationId: post-event
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/event'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+      servers:
+        - url: 'http://localhost:3000'
+  '/event/{id}/registration':
+    get:
+      summary: Get event users
+      operationId: get-event-id-registration
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/User'
+                __errors__:
+                  '#/components/schemas/User': No foreign doc with id components found
+      servers:
+        - url: 'http://localhost:3000'
+    post:
+      summary: Register user to event
+      operationId: post-event-id-registration
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/user'
+      responses:
+        '201':
+          description: Created
+        '400':
+          description: User already registered to this event
+        '409':
+          description: The event is full
+      servers:
+        - url: 'http://localhost:3000'
+  '/event{id}':
+    get:
+      summary: Get event
+      operationId: get-event-id
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/event'
+      servers:
+        - url: 'http://localhost:3000'
+    put:
+      summary: Update an existing event
+      operationId: put-event-id
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/event'
+      responses: {}
+      servers:
+        - url: 'http://localhost:3000'
+    delete:
+      summary: Delete an existing event
+      operationId: delete-event-id
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses: {}
+      servers:
+        - url: 'http://localhost:3000'
+  /schedule:
+    get:
+      summary: Get events schedule
+      description: "Return a list of events (id, title, start date, end date) in the start and end range\r\n"
+      operationId: get-schedule
+      parameters:
+        - name: startDate
+          in: query
+          schema:
+            type: string
+        - name: endDate
+          in: query
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+      servers:
+        - url: 'http://localhost:3000'
+  '/event/{id}/weather':
+    get:
+      summary: Get the event weather
+      description: return the current weather in the event location
+      operationId: get-event-id-weather
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses: {}
+      servers:
+        - url: 'http://localhost:3000'
+components:
+  schemas:
+    event:
+      type: object
+      title: event
+      properties:
+        id:
+          type:
+            - integer
+            - 'null'
+        title:
+          type: string
+        startDate:
+          type: string
+        endDate:
+          type: string
+        maxRegistrations:
+          type: integer
+        location:
+          type: string
+    user:
+      type: object
+      title: user
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        dateOfBirth:
+          type: string
