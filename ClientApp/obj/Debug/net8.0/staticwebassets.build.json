@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "+yCZLeYeUssHly7/+Q5+HwOIpiIjafCTl7s9oNgV0q8=",
+  "Source": "ClientApp",
+  "BasePath": "_content/ClientApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClientApp\\wwwroot",
+      "Source": "ClientApp",
+      "ContentRoot": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\",
+      "BasePath": "_content/ClientApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\index.html",
+      "SourceId": "ClientApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\",
+      "BasePath": "_content/ClientApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8qlss6w6n8",
+      "Integrity": "AFGwx3D5LikWGPWUR8+gPCFhhr9+JWaUuZq0QE9OHNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\Script.js",
+      "SourceId": "ClientApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\",
+      "BasePath": "_content/ClientApp",
+      "RelativePath": "Script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xnpwhe7gbv",
+      "Integrity": "7WK0PnI1BxxtoAmOMRj4xhlmqw5ZyfD5XUna1w+v9ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.8qlss6w6n8.html",
+      "AssetFile": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFGwx3D5LikWGPWUR8+gPCFhhr9+JWaUuZq0QE9OHNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 20:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8qlss6w6n8"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFGwx3D5LikWGPWUR8+gPCFhhr9+JWaUuZq0QE9OHNo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFGwx3D5LikWGPWUR8+gPCFhhr9+JWaUuZq0QE9OHNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 20:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFGwx3D5LikWGPWUR8+gPCFhhr9+JWaUuZq0QE9OHNo="
+        }
+      ]
+    },
+    {
+      "Route": "Script.js",
+      "AssetFile": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\Script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7WK0PnI1BxxtoAmOMRj4xhlmqw5ZyfD5XUna1w+v9ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 20:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7WK0PnI1BxxtoAmOMRj4xhlmqw5ZyfD5XUna1w+v9ck="
+        }
+      ]
+    },
+    {
+      "Route": "Script.xnpwhe7gbv.js",
+      "AssetFile": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClientApp\\wwwroot\\Script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7WK0PnI1BxxtoAmOMRj4xhlmqw5ZyfD5XUna1w+v9ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 20:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnpwhe7gbv"
+        },
+        {
+          "Name": "label",
+          "Value": "Script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7WK0PnI1BxxtoAmOMRj4xhlmqw5ZyfD5XUna1w+v9ck="
+        }
+      ]
+    }
+  ]
+}

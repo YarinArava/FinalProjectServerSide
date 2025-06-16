@@ -3,9 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Services;
 using WebApplication1.DTO;
 using ClassLibrary1.Models;
+using Microsoft.AspNetCore.Cors;
 
 namespace WebApplication1.Controllers
 {
+    [EnableCors()]
+
     [Route("[controller]")]
     [ApiController]
     public class EventsController : ControllerBase
@@ -98,8 +101,14 @@ namespace WebApplication1.Controllers
         {
             try
             {
-                _eventService.ServiceUpdateEvent(id, dto);
-                return Ok($"#{id} Event Updated!");
+                Event? updatedEvent = _eventService.ServiceUpdateEvent(id, dto);
+                if (updatedEvent == null)
+                {
+                    return NotFound("No such Event");
+                    
+                }
+                else
+                    return Ok($"#{id} Event Updated!");
             }
             catch (Exception e)
             {
@@ -145,5 +154,20 @@ namespace WebApplication1.Controllers
         // GET Event Weather
         // [HttpGet("{id}/weather")]
         // I didn't understand how to make it
-    } 
+
+
+        /* ---------------- */
+        // GET Event's location on Google maps
+        [HttpGet("{id}/map")]
+        public ActionResult<GoogleMapsDTO> ControllerGetGoogleMapsLink(int id)
+        {
+            var mapLink = _eventService.ServiceGetGoogleMapsLink(id);
+            if (mapLink == null)
+                return NotFound("Event not found");
+
+            return Ok(mapLink);
+        }
+
+
+    }
 }

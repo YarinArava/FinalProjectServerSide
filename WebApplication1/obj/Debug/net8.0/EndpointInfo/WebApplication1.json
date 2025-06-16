@@ -276,6 +276,46 @@
         }
       }
     },
+    "/Events/{id}/map": {
+      "get": {
+        "tags": [
+          "Events"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoogleMapsDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoogleMapsDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoogleMapsDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -377,6 +417,10 @@
           "location": {
             "type": "string",
             "nullable": true
+          },
+          "googleMapsLink": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -401,6 +445,16 @@
           },
           "userRefNavigation": {
             "$ref": "#/components/schemas/User"
+          }
+        },
+        "additionalProperties": false
+      },
+      "GoogleMapsDTO": {
+        "type": "object",
+        "properties": {
+          "link": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

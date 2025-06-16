@@ -12,3 +12,18 @@ D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dl
 D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
 D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.genruntimeconfig.cache
 D:\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.runtimeconfig.json
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.genruntimeconfig.cache
+D:\3rd year\semester b\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\FinalProjectServerSide\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

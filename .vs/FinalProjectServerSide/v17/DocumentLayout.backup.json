@@ -1,54 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FinalProjectServerSide\\",
+  "WorkspaceRootPath": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\clientapp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\clientapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\dto\\googlemapsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\googlemapsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\finalprojectserverside\\classlibrary1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\finalprojectserverside\\webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\classlibrary1\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{107D6091-B3F4-44C0-BCC2-F5D7D2E5F3D6}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\classlibrary1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\classlibrary1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\classlibrary1\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\classlibrary1\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9EE9D-4119-4A37-9C3F-ACBCF5A540B2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|d:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\finalprojectserverside\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE1744-4888-4D23-BFC3-ADE84C4B17F1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,75 +82,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventsController.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\EventsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GoogleMapsDTO.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\DTO\\GoogleMapsDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\GoogleMapsDTO.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\DTO\\GoogleMapsDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\GoogleMapsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:55:34.348Z"
+              "WhenOpened": "2025-06-14T20:47:08.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T23:07:57.599Z"
+              "DocumentIndex": 0,
+              "Title": "Script.js",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\wwwroot\\Script.js",
+              "RelativeDocumentMoniker": "ClientApp\\wwwroot\\Script.js",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\wwwroot\\Script.js",
+              "RelativeToolTip": "ClientApp\\wwwroot\\Script.js",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAIwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-14T14:19:59.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTO\\UserDTO.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "WebApplication1\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:44:17.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EventDTO.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\EventDTO.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTO\\EventDTO.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\DTO\\EventDTO.cs",
-              "RelativeToolTip": "WebApplication1\\DTO\\EventDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:12:04.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\User.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\User.cs",
-              "RelativeToolTip": "ClassLibrary1\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T16:43:57.33Z"
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ClientApp\\wwwroot\\index.html",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\wwwroot\\index.html",
+              "RelativeToolTip": "ClientApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-14T14:08:06.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\DTO\\EventDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\EventDTO.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\DTO\\EventDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:12:04.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "EventUser.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventUser.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventUser.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Models\\EventUser.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventUser.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventUser.cs",
               "RelativeToolTip": "ClassLibrary1\\Models\\EventUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,59 +150,135 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Event.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\Event.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\Event.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Event.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\Event.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\Event.cs",
               "RelativeToolTip": "ClassLibrary1\\Models\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T16:27:49.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Program.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T16:16:38.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EventRepository.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Repository\\EventRepository.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Repository\\EventRepository.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\EventRepository.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Repository\\EventRepository.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Repository\\EventRepository.cs",
               "RelativeToolTip": "ClassLibrary1\\Repository\\EventRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAewDAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:49:31.198Z"
+              "WhenOpened": "2025-06-04T15:49:31.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EventService.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\Services\\EventService.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Services\\EventService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\EventService.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\Services\\EventService.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Services\\EventService.cs",
               "RelativeToolTip": "WebApplication1\\Services\\EventService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwF0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:32:32.844Z"
+              "WhenOpened": "2025-06-04T15:32:32.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAYwKUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:55:34.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientApp.csproj",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\ClientApp.csproj",
+              "RelativeDocumentMoniker": "ClientApp\\ClientApp.csproj",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\ClientApp.csproj",
+              "RelativeToolTip": "ClientApp\\ClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T14:08:33.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:44:17.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\User.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\User.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:43:57.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:11:26.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T16:14:30.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\WebApplication1\\WeatherForecast.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\WeatherForecast.cs",
               "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,16 +286,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "EventsContext.cs",
-              "DocumentMoniker": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventsContext.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventsContext.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Models\\EventsContext.cs",
-              "ToolTip": "D:\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventsContext.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\ClassLibrary1\\Models\\EventsContext.cs",
               "RelativeToolTip": "ClassLibrary1\\Models\\EventsContext.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADgvzUAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:05:32.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T15:05:32.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\3rd year\\semester b\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05EA\u05D5\u05DB\u05E0\u05D5\u05EA \u05D0\u05D9\u05E0\u05D8\u05E8\u05E0\u05D8 \u05D5\u05D0\u05E4\u05DC\u05D9\u05E7\u05E6\u05D9\u05D5\u05EA- \u05E6\u05D3 \u05E9\u05E8\u05EA\\FinalProjectServerSide\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:07:57.599Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "D:\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "D:\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectPath": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\FinalProjectServerSide\\ClassLibrary1\\obj\\",
+        "outputPath": "D:\\3rd year\\semester b\\פיתוח תוכנות אינטרנט ואפליקציות- צד שרת\\FinalProjectServerSide\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

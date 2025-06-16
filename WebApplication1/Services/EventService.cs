@@ -47,15 +47,22 @@ namespace WebApplication1.Services
 
         /* ---------------- */
         // Update Existing Event
-        public void ServiceUpdateEvent(int eventID, EventDTO dto)
+        public Event? ServiceUpdateEvent(int eventID, EventDTO dto)
         {
-            Event EventToUpdate = _eventRepository.FetchEventByID(eventID); // will storage neccesary event
-            EventToUpdate.Name = dto.Name;
-            EventToUpdate.StartDate = dto.StartDate;
-            EventToUpdate.EndDate = dto.EndDate;
-            EventToUpdate.MaxRegistrations = dto.MaxRegistrations;
-            EventToUpdate.Location = dto.Location;
-            _eventRepository.RepositoryUpdateEvent(EventToUpdate);
+            Event? eventToUpdate = _eventRepository.FetchEventByID(eventID);
+
+            if (eventToUpdate == null)
+                return null;
+
+            eventToUpdate.Name = dto.Name;
+            eventToUpdate.StartDate = dto.StartDate;
+            eventToUpdate.EndDate = dto.EndDate;
+            eventToUpdate.MaxRegistrations = dto.MaxRegistrations;
+            eventToUpdate.Location = dto.Location;
+
+            _eventRepository.RepositoryUpdateEvent(eventToUpdate);
+
+            return eventToUpdate;
         }
 
 
@@ -78,5 +85,19 @@ namespace WebApplication1.Services
         /* ---------------- */
         // GET Event Weather
         // I didn't understand how to make it
+
+
+        /* ---------------- */
+        // GET Event's location on Google maps
+        public GoogleMapsDTO ServiceGetGoogleMapsLink(int eventID)
+        {
+            var ev = _eventRepository.FetchEventByID(eventID);
+            if (ev == null) return null;
+
+            return new GoogleMapsDTO
+            {
+                Link = $"https://www.google.com/maps/search/?api=1&query={ev.Location}"
+            };
+        }
     }
 }

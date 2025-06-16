@@ -46,7 +46,7 @@ namespace ClassLibrary1.Repository
 
         /* ---------------- */
         // GET Event's Information By ID
-        public Event FetchEventByID(int eventID)
+        public Event? FetchEventByID(int eventID)
         {
             return db.Events.FirstOrDefault(e => e.Id == eventID);
         }
